@@ -24,11 +24,19 @@ BUSSINESS REQUIREMENT 2 :- LINEAR REGRESSION
 * we have to create reports after doing data cleaning and model training.
   
 
- ## Machine Learning Business Case:-
-
+  ## ML BUSSINESS CASE TO APPLY
+  
  . we have to create a ml model in which model predicts the exact value based on the real time data and information. its a super-vised machine learning model that predicts the value from the continues scale
  . our main aim is to provide the team a perfact analysis and reports whoch help them out rapidly and save their time
  . The model output is giving the value based on location experience and education
- 
+ . THE training data fit the model come from the stack overflow general survry of 2020 .
 
- . 
+
+ ## Streamlit Interface
+ 
+## Page 1 :- The predicition Page
+. In this age the user will just put some infothe form of location / education level and yearss of experience.
+. the model will analyse it quickly and provide the best info and prediciton about that .
+. First you will get a massive number of countries list
+under you will find the education level 
+and then you will put on the number of year (experienced)
