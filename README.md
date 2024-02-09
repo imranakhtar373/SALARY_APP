@@ -8,4 +8,7 @@ The dataset consists of 65112 rows by doing surveys of peoples from all over the
 
 # Hypothesis and how to validate?
 
-we have the data of more than 65000 peoples in which their experience /graduation and the data of 
+we have the data of more than 65000 peoples in which their experience /year of 
+ graduation and the data of their location is avaliable. this data will help us to let us know which country is more beneficial for software developers
+
+ 
