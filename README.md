@@ -20,7 +20,15 @@ BUSSINESS REQUIREMENT 1 :- data visualization
 * we have to then identify how much null values ae in there
 
 BUSSINESS REQUIREMENT 2 :- LINEAR REGRESSION
-* WE HAVE TO predit which country pays the most and which dont
+* WE have TO predit which country pays the most and which dont
 * we have to create reports after doing data cleaning and model training.
   
+
+ ## Machine Learning Business Case:-
+
+ . we have to create a ml model in which model predicts the exact value based on the real time data and information. its a super-vised machine learning model that predicts the value from the continues scale
+ . our main aim is to provide the team a perfact analysis and reports whoch help them out rapidly and save their time
+ . The model output is giving the value based on location experience and education
  
+
+ . 
