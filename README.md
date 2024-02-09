@@ -36,7 +36,12 @@ BUSSINESS REQUIREMENT 2 :- LINEAR REGRESSION
  
 ## Page 1 :- The predicition Page
 . In this age the user will just put some infothe form of location / education level and yearss of experience.
-. the model will analyse it quickly and provide the best info and prediciton about that .
+. the model will analyse it quickly and provide the best info and prediciton about that
 . First you will get a massive number of countries list
 under you will find the education level 
 and then you will put on the number of year (experienced)
+
+# Page 2 :- the graph page
+. In this page you will get the number of graphs showing the exact percentage and raising of salaries by years.
+
+
