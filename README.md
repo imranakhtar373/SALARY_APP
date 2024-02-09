@@ -41,7 +41,18 @@ BUSSINESS REQUIREMENT 2 :- LINEAR REGRESSION
 under you will find the education level 
 and then you will put on the number of year (experienced)
 
-# Page 2 :- the graph page
+## Page 2 :- the graph page
 . In this page you will get the number of graphs showing the exact percentage and raising of salaries by years.
+. a PIE CHART
+. A LINE GRAPH 
+
+## BUGS :-
+2 issues were detected 
+one was in streamlit and second one was in THE ML MODEL 
+
+. streamlit issue resolved √
+. ML model issue resolved √
+
+
 
 
